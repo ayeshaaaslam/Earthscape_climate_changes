@@ -1,4 +1,4 @@
-﻿require('dotenv').config();
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
@@ -12,9 +12,9 @@ const errorHandler = require('./middleware/errorHandler');
 const app = express();
 const PORT = process.env.PORT || process.env.BACKEND_PORT || 5000;
 
-// Enable CORS with support for frontend dev server
+// Enable CORS for frontend requests (local and production)
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://127.0.0.1:5173', 'http://localhost:3000', 'http://127.0.0.1:3000'],
+  origin: true,
   credentials: true
 }));
 
