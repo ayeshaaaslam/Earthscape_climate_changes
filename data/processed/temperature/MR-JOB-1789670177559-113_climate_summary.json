@@ -1,0 +1,194 @@
+{
+  "Karachi": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 30,
+      "minimum": 20.1,
+      "maximum": 48.5
+    },
+    "humidity": {
+      "average": 79.79
+    },
+    "rainfall": {
+      "average": 4.52,
+      "total": 3301.9
+    },
+    "co2": {
+      "average": 420.72,
+      "minimum": 415.6,
+      "maximum": 426.4
+    },
+    "windSpeed": {
+      "average": 18.99
+    },
+    "anomaliesDetected": 1
+  },
+  "Lahore": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 27.03,
+      "minimum": 17.2,
+      "maximum": 37
+    },
+    "humidity": {
+      "average": 64.54
+    },
+    "rainfall": {
+      "average": 10.34,
+      "total": 7544.9
+    },
+    "co2": {
+      "average": 424.73,
+      "minimum": 419.2,
+      "maximum": 430
+    },
+    "windSpeed": {
+      "average": 19.18
+    },
+    "anomaliesDetected": 1
+  },
+  "Islamabad": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 22.03,
+      "minimum": 12.1,
+      "maximum": 46.2
+    },
+    "humidity": {
+      "average": 59.54
+    },
+    "rainfall": {
+      "average": 15.24,
+      "total": 11127
+    },
+    "co2": {
+      "average": 407.74,
+      "minimum": 402.2,
+      "maximum": 413.2
+    },
+    "windSpeed": {
+      "average": 18.87
+    },
+    "anomaliesDetected": 1
+  },
+  "Peshawar": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 24.09,
+      "minimum": 14.1,
+      "maximum": 33.9
+    },
+    "humidity": {
+      "average": 57.39
+    },
+    "rainfall": {
+      "average": 8.5,
+      "total": 6207
+    },
+    "co2": {
+      "average": 412.79,
+      "minimum": 407.2,
+      "maximum": 418.3
+    },
+    "windSpeed": {
+      "average": 18.97
+    },
+    "anomaliesDetected": 0
+  },
+  "Quetta": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 18.1,
+      "minimum": 8,
+      "maximum": 28
+    },
+    "humidity": {
+      "average": 44.47
+    },
+    "rainfall": {
+      "average": 3.81,
+      "total": 2782.3
+    },
+    "co2": {
+      "average": 400.74,
+      "minimum": 395,
+      "maximum": 406.4
+    },
+    "windSpeed": {
+      "average": 18.92
+    },
+    "anomaliesDetected": 0
+  },
+  "Multan": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 31.03,
+      "minimum": 21,
+      "maximum": 41
+    },
+    "humidity": {
+      "average": 54.43
+    },
+    "rainfall": {
+      "average": 5.3,
+      "total": 3866.1
+    },
+    "co2": {
+      "average": 422.76,
+      "minimum": 417.2,
+      "maximum": 478
+    },
+    "windSpeed": {
+      "average": 18.72
+    },
+    "anomaliesDetected": 1
+  },
+  "Hyderabad": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 29.05,
+      "minimum": 19.1,
+      "maximum": 38.9
+    },
+    "humidity": {
+      "average": 74.53
+    },
+    "rainfall": {
+      "average": 6.19,
+      "total": 4522
+    },
+    "co2": {
+      "average": 416.72,
+      "minimum": 411.2,
+      "maximum": 422.3
+    },
+    "windSpeed": {
+      "average": 19
+    },
+    "anomaliesDetected": 0
+  },
+  "Faisalabad": {
+    "recordCount": 730,
+    "temperature": {
+      "average": 28.08,
+      "minimum": 18,
+      "maximum": 37.9
+    },
+    "humidity": {
+      "average": 61.54
+    },
+    "rainfall": {
+      "average": 7.73,
+      "total": 5643.7
+    },
+    "co2": {
+      "average": 426.71,
+      "minimum": 421.2,
+      "maximum": 432.4
+    },
+    "windSpeed": {
+      "average": 18.84
+    },
+    "anomaliesDetected": 0
+  }
+}
